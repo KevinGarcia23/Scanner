@@ -1,15 +1,15 @@
-# # 🧾 Document Scanner using OpenCV
+# Document Scanner using OpenCV
 
 This is a simple **Python-based document scanner** built using OpenCV. The project captures an image of a document, detects its edges, applies a perspective transformation to simulate a top-down scanned view, and converts it into a clean, black-and-white image.
 
-## 📷 Demo
+##  Demo
 
 Original Photo → Edge Detection → Perspective Transform → Scanned Output  
 *(Insert before/after images or a short gif here if available)*
 
 ---
 
-## 🛠️ Features
+##  Features
 
 - Edge detection using Canny algorithm
 - Automatic contour detection to locate the document
@@ -19,7 +19,7 @@ Original Photo → Edge Detection → Perspective Transform → Scanned Output
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - OpenCV image processing pipeline
 - Contour approximation and geometric point ordering
@@ -27,7 +27,3 @@ Original Photo → Edge Detection → Perspective Transform → Scanned Output
 - Adaptive Gaussian thresholding
 - Command-line interface design with `argparse`
 - Code modularity with custom helper functions
-
----
-
-## 📂 Project Structure
