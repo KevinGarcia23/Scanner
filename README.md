@@ -5,7 +5,6 @@ This is a simple **Python-based document scanner** built using OpenCV. The proje
 ##  Demo
 
 Original Photo → Edge Detection → Perspective Transform → Scanned Output  
-*(Insert before/after images or a short gif here if available)*
 
 ---
 
